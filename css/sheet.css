@@ -1,0 +1,29 @@
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        h1, h2, h3, div, p {
+            text-align: center
+        }
+        #one {
+              color: red;      
+        }
+        
+        .only {
+            color: gray;
+        }
+        .airtag {
+             font-size: 13px;margin-top: -15px
+        }
+        .board {
+            margin-top: -38px;color: white
+        }
+        .i6 {
+            margin-bottom: -3px;color: #46bfe0;
+            margin-bottom: 1px;
+        }
+        .logo {
+            margin-top: 15px;
+            width: 240px;
+        }
